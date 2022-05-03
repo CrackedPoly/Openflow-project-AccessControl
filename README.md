@@ -32,4 +32,8 @@
 
 `config.py`文件中的ODL_ip和ODL_rest_addr
 
+## 如何使用
+
+见release里的幻灯片
+
 
